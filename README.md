@@ -5,7 +5,7 @@
 
 
 
-`使用 git clone https://github.com/FutureXXH/TencentGameClass/ --branch Lesson2 --depth 1 来下载该文件
+` 使用 git clone https://github.com/FutureXXH/TencentGameClass/ --branch Lesson2 --depth 1 来下载该文件
 
 
 在原有的项目上
