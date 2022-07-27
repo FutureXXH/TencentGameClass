@@ -3,6 +3,11 @@
 
 本分支是作业二  包含了相关项目文件
 
+
+
+`使用 git clone https://github.com/FutureXXH/TencentGameClass/ --branch Lesson2 --depth 1 来下载该文件
+
+
 在原有的项目上
 
 新增了随机移动的球，击中会加分
