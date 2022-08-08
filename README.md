@@ -1,15 +1,10 @@
 # TencentGameClass
 腾讯游戏公开课
 
+这里是第四节课(UMG)作业：
 -------
-各分支包含各课程作业，每个作业一般包含相关工程文件，项目apk与视频网盘链接。
-
-
-作业一：https://github.com/FutureXXH/TencentGameClass/tree/Lesson1
-
-作业二：https://github.com/FutureXXH/TencentGameClass/tree/Lesson2
-
-
+项目使用的是正在制作的大作业，
+因为文件比较大，所以上传至腾讯微云。
 
 -------
 
