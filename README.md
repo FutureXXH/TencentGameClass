@@ -28,5 +28,5 @@ AI炮台建造功能
 
 制作中的截图
 
-![微信截图_20220813164724](https://user-images.githubusercontent.com/60800578/184476593-a6cc9f19-36ad-42c3-9715-a4c08114c07b.png)
+![微信截图_20220813164724](https://user-images.githubusercontent.com/60800578/184476626-882a86ce-ec27-4837-8f47-fcf3a59299bd.png)
 
