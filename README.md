@@ -4,7 +4,7 @@
 这里是第四节课(UMG)作业：
 -------
 
-加入了积分榜
+制作了许多UI界面并加入了可本地保存的积分榜
 
 作业工程文件是用正在制作的大作业 https://github.com/FutureXXH/TencentGameClass/tree/Final
 
