@@ -2,15 +2,13 @@
 腾讯游戏公开课
 
 -------
-各分支包含各课程作业，每个作业一般包含相关工程文件，项目打包文件与视频网盘链接。
+这里是骨骼动画课作业
+在作业要求的基础上，添加了手部，脚部的IK ，武器切换动画等等
 
+作业项目是基于正在完成的大作业项目制作，大作业项目文件： https://github.com/FutureXXH/TencentGameClass/tree/Final
 
-作业一：https://github.com/FutureXXH/TencentGameClass/tree/Lesson1
-
-作业二：https://github.com/FutureXXH/TencentGameClass/tree/Lesson2
-
-作业四: https://github.com/FutureXXH/TencentGameClass/tree/Lesson4
+视频与打包上传至网盘：
 
 -------
 
-大作业：https://github.com/FutureXXH/TencentGameClass/tree/Final （完成中...）
+
