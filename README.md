@@ -35,6 +35,10 @@ AI炮台建造功能
 
 制作中的截图
 
+![IK测试](https://user-images.githubusercontent.com/60800578/185309462-5787a48f-26ee-4701-b61f-d337fd72b597.png)
+
+![火焰范围伤害测试](https://user-images.githubusercontent.com/60800578/185309473-b27a7970-3400-4c24-8338-d127eb317341.png)
+
 
 
 
