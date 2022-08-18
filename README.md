@@ -11,6 +11,8 @@
 
 作业四: https://github.com/FutureXXH/TencentGameClass/tree/Lesson4
 
+作业五：https://github.com/FutureXXH/TencentGameClass/tree/Lesson5
+
 -------
 
 大作业：https://github.com/FutureXXH/TencentGameClass/tree/Final （完成中...）
