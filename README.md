@@ -39,12 +39,14 @@ AI炮台建造功能
 
 制作中的截图（PC端）
 
-![基础射击](https://user-images.githubusercontent.com/60800578/185309643-aee6fa87-bc71-442b-9c17-5054351cac59.png)
+
+![微信截图_20220818141836](https://user-images.githubusercontent.com/60800578/185636577-1282ba6e-530e-4be0-a6d3-40884b2cd082.png)
 
 
-![IK测试](https://user-images.githubusercontent.com/60800578/185309462-5787a48f-26ee-4701-b61f-d337fd72b597.png)
+![QQ截图20220815152240](https://user-images.githubusercontent.com/60800578/185636587-09daac8d-01bf-4b88-ab4e-3d3379acc04b.png)
 
-![火焰范围伤害测试](https://user-images.githubusercontent.com/60800578/185309473-b27a7970-3400-4c24-8338-d127eb317341.png)
+
+![微信截图_20220813164724](https://user-images.githubusercontent.com/60800578/185636590-96ef508e-8013-40f9-932d-562008aa7ac3.png)
 
 
 
