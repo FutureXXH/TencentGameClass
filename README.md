@@ -37,7 +37,7 @@ AI炮台建造功能
 
 ----------
 
-制作中的截图
+制作中的截图（PC端）
 
 ![基础射击](https://user-images.githubusercontent.com/60800578/185309643-aee6fa87-bc71-442b-9c17-5054351cac59.png)
 
