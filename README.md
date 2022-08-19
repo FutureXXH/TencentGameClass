@@ -7,7 +7,7 @@
 
 作业项目是基于正在完成的大作业项目制作，大作业项目文件： https://github.com/FutureXXH/TencentGameClass/tree/Final
 
-视频与打包上传至网盘：
+视频与打包上传至网盘：https://share.weiyun.com/zx33cZAm
 
 -------
 
