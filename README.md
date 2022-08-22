@@ -13,6 +13,8 @@
 
 作业五：https://github.com/FutureXXH/TencentGameClass/tree/Lesson5
 
+作业六：https://github.com/FutureXXH/TencentGameClass/tree/Lesson6
+
 -------
 
 大作业：https://github.com/FutureXXH/TencentGameClass/tree/Final （完成中...）
