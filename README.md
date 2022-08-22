@@ -2,17 +2,18 @@
 腾讯游戏公开课
 
 -------
-各分支包含各课程作业，每个作业一般包含相关工程文件，项目打包文件与视频网盘链接。
+这里是课程6（物理基础）的作业分支
 
+加入了不同物理材质不同脚部声/脚印功能
 
-作业一：https://github.com/FutureXXH/TencentGameClass/tree/Lesson1
+加入了物品拾取的功能
 
-作业二：https://github.com/FutureXXH/TencentGameClass/tree/Lesson2
+加入了一个类似榴弹枪的枪械，根据不同物理材质有不同的效果。
 
-作业四: https://github.com/FutureXXH/TencentGameClass/tree/Lesson4
+作业是在大作业项目上完成的，大作业项目地址：https://github.com/FutureXXH/TencentGameClass/tree/Final
 
-作业五：https://github.com/FutureXXH/TencentGameClass/tree/Lesson5
+演示视频与安卓apk打包上传至微云网盘，地址：
 
 -------
 
-大作业：https://github.com/FutureXXH/TencentGameClass/tree/Final （完成中...）
+
