@@ -5,15 +5,15 @@
 各分支包含各课程作业，每个作业一般包含相关工程文件，项目打包文件与视频网盘链接。
 
 
-作业一：https://github.com/FutureXXH/TencentGameClass/tree/Lesson1
+课程一作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson1
 
-作业二：https://github.com/FutureXXH/TencentGameClass/tree/Lesson2
+课程二作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson2
 
-作业四: https://github.com/FutureXXH/TencentGameClass/tree/Lesson4
+课程四作业: https://github.com/FutureXXH/TencentGameClass/tree/Lesson4
 
-作业五：https://github.com/FutureXXH/TencentGameClass/tree/Lesson5
+课程五作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson5
 
-作业六：https://github.com/FutureXXH/TencentGameClass/tree/Lesson6
+课程六作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson6
 
 -------
 
