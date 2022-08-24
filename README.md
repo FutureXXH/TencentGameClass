@@ -43,11 +43,14 @@ AI炮台建造功能
 不同物理材质可自定义脚印，脚部声
 
 游戏设计相关功能制作（游戏敌人攻击波次等）
+
 ----------
 
 制作中的截图（安卓端）
 
 
+
+![Screenshot_2022-08-24-15-13-28-312_com YourCompan](https://user-images.githubusercontent.com/60800578/186354840-452f65ef-75df-4e8f-890d-537ad4cd65bf.jpg)
 
 
 
