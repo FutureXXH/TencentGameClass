@@ -12,7 +12,7 @@
 
 作业是在大作业项目上完成的，大作业项目地址：https://github.com/FutureXXH/TencentGameClass/tree/Final
 
-演示视频与安卓apk打包上传至微云网盘，地址：
+演示视频与安卓apk打包上传至微云网盘，地址：https://share.weiyun.com/L7B54efc
 
 -------
 
