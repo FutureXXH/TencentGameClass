@@ -5,6 +5,7 @@
 #include <Components/SkeletalMeshComponent.h>
 #include <Components/StaticMeshComponent.h>
 #include <Components/CapsuleComponent.h>
+#include "Kismet/KismetSystemLibrary.h"
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
 #include "MyCharacter.generated.h"

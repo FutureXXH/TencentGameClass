@@ -40,7 +40,7 @@ void AMyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 float AMyCharacter::IKFootTrace(float TraceDistance, FName SocketName)
 {
 	auto SocketPos = GetMesh()->GetSocketLocation(SocketName);
-	auto ActorPos = GetActorLocation();
+	auto ActorPos = GetMesh()->GetComponentLocation();
 	FVector StartPos;
 	FVector EndPos;
 
@@ -54,16 +54,15 @@ float AMyCharacter::IKFootTrace(float TraceDistance, FName SocketName)
 	FHitResult HitResult;
 
 
-	FCollisionQueryParams QParams(FName(TEXT("CombatTrace")), true, NULL);
-	QParams.AddIgnoredActor(this);
-
-	if(!GetWorld()->LineTraceSingleByChannel(HitResult,StartPos, EndPos, ECC_Visibility))
+	
+	TArray<AActor*> IgnoreActors;
+	if(!UKismetSystemLibrary::LineTraceSingle(GetWorld(), StartPos, EndPos, TraceTypeQuery1, false, IgnoreActors, EDrawDebugTrace::ForOneFrame, HitResult, true))
 	{
-		//DrawDebugLine(this->GetWorld(), StartPos, EndPos, FColor::Green, true, 5.0f);
+		
 		return 0;
 	}
 
-	//DrawDebugLine(this->GetWorld(), HitResult.TraceStart, HitResult.TraceEnd, FColor::Red, true, 5.0f);
+	
 
 
 	
