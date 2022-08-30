@@ -16,6 +16,7 @@ void AGameItem::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	
 }
 
 // Called every frame

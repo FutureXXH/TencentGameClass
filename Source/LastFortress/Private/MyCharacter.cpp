@@ -14,6 +14,8 @@ AMyCharacter::AMyCharacter()
 	UCapsuleComponent* p = this->FindComponentByClass<UCapsuleComponent>();
 	HalfHeight = p->GetScaledCapsuleHalfHeight();
 	IKTranceDistance = HalfHeight * ScaleZ;
+	
+	
 }
 
 // Called when the game starts or when spawned
