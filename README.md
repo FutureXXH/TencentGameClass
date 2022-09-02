@@ -1,20 +1,22 @@
 # TencentGameClass
 腾讯游戏公开课
 
--------
-各分支包含各课程作业，每个作业一般包含相关工程文件，项目打包文件与视频网盘链接。
 
 
-课程一作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson1
+这里是第7节课作业(渲染基础)
 
-课程二作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson2
+------
+添加了一个随时间变化颜色的材质
 
-课程四作业: https://github.com/FutureXXH/TencentGameClass/tree/Lesson4
+给场景添加了Bloom后期效果
 
-课程五作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson5
+作业是在大作业的项目上完成的 大作业地址：https://github.com/FutureXXH/TencentGameClass/tree/Final 
 
-课程六作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson6
-
+视频演示地址：
 -------
 
-大作业：https://github.com/FutureXXH/TencentGameClass/tree/Final 
+截图
+
+
+
+
