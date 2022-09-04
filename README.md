@@ -17,6 +17,8 @@
 
 课程七作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson7
 
+课程八作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson8
+
 -------
 
 大作业：https://github.com/FutureXXH/TencentGameClass/tree/Final 
