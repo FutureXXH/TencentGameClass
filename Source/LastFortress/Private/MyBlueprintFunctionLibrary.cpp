@@ -15,7 +15,7 @@ FHitResult UMyBlueprintFunctionLibrary::MyLineTraceSingle(AActor* Actor,FVector 
 		return HitResult;
 	}
 	TArray<AActor*> IgnoreActors;
-	bool bIsHit = UKismetSystemLibrary::LineTraceSingle(Actor->GetWorld(), Start, End, TraceTypeQuery1, false, IgnoreActors, EDrawDebugTrace::ForDuration, HitResult, true);
+	bool bIsHit = UKismetSystemLibrary::LineTraceSingle(Actor->GetWorld(), Start, End, TraceTypeQuery2, false, IgnoreActors, EDrawDebugTrace::ForDuration, HitResult, true);
 
 
 	
