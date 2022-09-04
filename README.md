@@ -50,8 +50,8 @@ AI炮台建造功能
 制作中的截图（安卓端）
 
 
+![Screenshot_2022-09-04-11-56-30-252_com YourCompan](https://user-images.githubusercontent.com/60800578/188296645-001bd35c-2532-47c9-a3f9-12c53f78f533.jpg)
 
-![Screenshot_2022-08-24-15-13-28-312_com YourCompan](https://user-images.githubusercontent.com/60800578/186354840-452f65ef-75df-4e8f-890d-537ad4cd65bf.jpg)
 
 
 
