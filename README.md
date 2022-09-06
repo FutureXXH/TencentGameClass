@@ -13,7 +13,7 @@
 为了方便演示，游戏对局设置为1分钟，游戏结束后会进入结算界面
 
 
-打包（windows平台），演示地址：
+打包（windows平台），演示地址：https://share.weiyun.com/5ieiAhXF
 
 -------
 
