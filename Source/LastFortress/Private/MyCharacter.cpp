@@ -22,6 +22,7 @@ AMyCharacter::AMyCharacter()
 void AMyCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+
 	
 }
 
@@ -65,7 +66,7 @@ float AMyCharacter::IKFootTrace(float TraceDistance, FName SocketName)
 	}
 
 	
-
+	
 
 	
 	return HalfHeight - HitResult.Distance;
