@@ -1,24 +1,21 @@
 # TencentGameClass
 腾讯游戏公开课
 
+
+这里是课程9(AI)作业
 -------
-各分支包含各课程作业，每个作业一般包含相关工程文件，项目打包文件与视频网盘链接。
+
+实现了AI 
+1.在没有玩家出现在视野中时，自动前往一个特别目标地，当玩家出现在视野中时，AI会靠近玩家
+
+2.拥有远程AI(装备枪)和近战AI(装备近战武器)，小Boss(装备火焰发射武器)，当玩家攻击远程AI时，远程AI会躲避，当攻击近战AI/Boss时，近战AI/Boss会加快速度跑向玩家
 
 
-课程一作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson1
 
-课程二作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson2
+作业是基于大作业上面实现的，大作业项目地址：https://github.com/FutureXXH/TencentGameClass/tree/Final 
 
-课程四作业: https://github.com/FutureXXH/TencentGameClass/tree/Lesson4
-
-课程五作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson5
-
-课程六作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson6
-
-课程七作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson7
-
-课程八作业：https://github.com/FutureXXH/TencentGameClass/tree/Lesson8
+演示视频和打包APK网盘地址：
 
 -------
 
-大作业：https://github.com/FutureXXH/TencentGameClass/tree/Final 
+
