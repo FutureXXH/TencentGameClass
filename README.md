@@ -19,7 +19,7 @@
 
 作业是基于大作业上面实现的，大作业项目地址：https://github.com/FutureXXH/TencentGameClass/tree/Final 
 
-演示视频和打包APK网盘地址：
+演示视频和打包APK网盘地址：https://share.weiyun.com/GvRUdS6i
 
 -------
 
