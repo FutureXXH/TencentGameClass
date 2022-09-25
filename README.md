@@ -55,7 +55,8 @@ AI炮台功能(玩家可以建造，并帮助玩家抵御敌人)
 
 ![Screenshot_2022-09-25-15-44-55-181_com YourCompan](https://user-images.githubusercontent.com/60800578/192133613-5a39d765-85bc-49ec-b38a-ff47d81a7b39.jpg)
 
-![Screenshot_2022-09-25-15-45-06-759_com YourCompan](https://user-images.githubusercontent.com/60800578/192133615-367964d7-5bab-4316-8384-004b88ace870.jpg)
+
+![1664092540604](https://user-images.githubusercontent.com/60800578/192133862-d523ed88-1d06-4eb4-9cd4-92efca8f4821.jpg)
 
 
 
